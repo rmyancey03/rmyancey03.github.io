@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my page! 
+Hello! Welcome to my page! After a long childhood of playing games, I always wondered how to make them tick! Nonetheless it inspired my decision to study Computer Science!
 
 ## Education
-* [Degree, e.g. B.S. / M.S. / Ph.D.] in [Major], University of Houston, [Year]
+* B.S. in Computer Science , University of Houston, 2026!
 
 ## Links
 * [CS Department](http://cs.uh.edu)
