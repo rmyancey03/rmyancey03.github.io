@@ -15,4 +15,4 @@ Hello! Welcome to my page!
 ## Links
 * [CS Department](http://cs.uh.edu)
 * [LinkedIn](https://linkedin.com/in/rmyancey03)
-* [Resume (PDF)](/files/resume.docx.pdf)
+* [Resume (PDF)](/files/resume.pdf)
